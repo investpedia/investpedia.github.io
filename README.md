@@ -11,6 +11,9 @@ https://opensea.io/collection/pixy-aliens
 https://investpedia.github.io
 
 #
-Twitter: cafe_pafe
-Instagram: madebymosi
-Clubhouse: mosipvp
+### Twitter
+cafe_pafe
+### Instagram
+madebymosi
+### Clubhouse
+mosipvp
