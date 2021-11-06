@@ -1,5 +1,7 @@
 # investpedia.github.io
-pixy aliens, nft minter
+## pixy aliens, nft minter
+
+#
 
 ### ERC-721 smart contract 
 https://polygonscan.com/address/0x49682702b8c71EaAD420a4c563A31B531EBA43A9
