@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x49682702b8c71EaAD420a4c563A31B531EBA43A9",
+  "SCAN_LINK": "https://polygonscan.com/address/0x49682702b8c71EaAD420a4c563A31B531EBA43A9",
+  "NETWORK": {
+    "NAME": "Polygon", 
+    "SYMBOL": "Matic", 
+    "ID": 137 
+  },
+  "NFT_NAME": "Pixy Aliens",
+  "SYMBOL": "PA",
+  "MAX_SUPPLY": 100,
+  "WEI_COST": 5000000000000000000,
+  "DISPLAY_COST": 5.00,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/pixy-aliens",
+  "SHOW_BACKGROUND": true
+}
