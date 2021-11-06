@@ -10,3 +10,7 @@ https://opensea.io/collection/pixy-aliens
 ### dapp: nft minter
 https://investpedia.github.io
 
+#
+Twitter: cafe_pafe
+Instagram: madebymosi
+Clubhouse: mosipvp
