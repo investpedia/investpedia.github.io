@@ -1,33 +1,19 @@
 :root {
-  --primary: #eef2ff;
-  --primary-text: #353535;
-  --secondary: #ffffff;
-  --secondary-text: #006fb9;
-  --accent: rgba(0,0,0,.8);/*#0083e0;*/
-  --accent-text: #ffffff;
-  --master: #000000;
-  --master-text: #ffffff;
+  --primary: #eeeeee;
+  --primary-text: #1a1a1a;
+  --secondary: #1d7fff;
+  --secondary-text: #f8f8f8;
+  --accent: #505050;
+  --accent-text: #333333;
 }
 
-body{
-  background-color: rgba(0,0,0,.5);
+.xgb{
+  background: rgba(220,220,220,0.2);
+  padding: 5px;
+  margin-bottom: 100px;
 }
 
-.sc-jSgvzq .cGWSSi,
-.sc-jSgvzq .iTXcWz,
-.sc-jSgvzq .fQseeQ,
-.sc-jSgvzq .hgrPFv,
-.sc-jSgvzq {
-  background: rgba(200, 200, 200, 0.8);
-  border-radius: 10px;
-  padding: 10px;
-}
-
-.sc-dlfnuX .jOnJHD{
-  color:#345;
-  background:#f1f1f1;
-}
-.sc-dlfnuX .jOnJHD a{
-  color:#3af;
-  background:#f1f1f1;
+.lbg{
+  background: rgba(100,100,100,0.5);
+  padding: 5px;
 }

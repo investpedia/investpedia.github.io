@@ -1,10 +1,10 @@
 {
   "CONTRACT_ADDRESS": "0x49682702b8c71EaAD420a4c563A31B531EBA43A9",
-  "SCAN_LINK": "https://polygonscan.com/address/0x49682702b8c71EaAD420a4c563A31B531EBA43A9",
+  "SCAN_LINK": "https://polygonscan.com/token/0x49682702b8c71EaAD420a4c563A31B531EBA43A9",
   "NETWORK": {
-    "NAME": "Polygon", 
-    "SYMBOL": "Matic", 
-    "ID": 137 
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
   },
   "NFT_NAME": "Pixy Aliens",
   "SYMBOL": "PA",
